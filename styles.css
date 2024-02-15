@@ -1,0 +1,80 @@
+.youtube a {
+    background-color: whitesmoke;
+    border-radius: 20px;
+    text-decoration: none;
+    display: flex;
+    box-shadow: 8px;
+    cursor: grab;
+    text-align: center;
+    margin-right: 10px;
+    align-items: center;
+    border-color: white;
+}
+
+.spotify a {
+    background-color: whitesmoke;
+    border-radius: 20px;
+    text-decoration: none;
+    display: flex;
+    box-shadow: 8px;
+    text-decoration-color: black;
+    cursor: grab;
+    font-family:  Helvetica;
+    font-weight: bold;
+    align-items: center;
+    margin-right: 10px;
+    border-color: white;
+}
+
+.whitsmoke{
+    background-color: whitesmoke;
+}
+
+.title{
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 350px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.Integrantes{
+    width: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Logo-Spotify{
+    mix-blend-mode: multiply;
+}
+.Logo-youtube{
+    mix-blend-mode: multiply ;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+}
+
+.imagem-banda img{
+    border-radius: 50%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.spotify img{
+    border-radius: 50%;
+}
+
+.youtube img{
+    border-radius: 50%;
+
+}
+
+button .spotify{
+    border-color: white;
+}
